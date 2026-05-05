@@ -9,47 +9,117 @@ marlow@mssconsultoria.com.br · [GitHub @wolram](https://github.com/wolram) · [
 
 </div>
 
-## Focus
+## 🧠 What I Build
 
-- AI-native systems  
-- Automation & RPA  
-- SaaS products  
-- Performance architecture  
+AI-native systems that eliminate manual work and scale execution.
 
----
-
-## Selected Work
-
-### JobApp
-Automate job applications and increase response rates.
-
-### CLTX
-End-to-end system for PJ management and operations.
-
-### Snap Sieve
-On-device AI for photo cleaning (Vision + CoreML).
-
-### VotoData
-Data visualization platform for public data.
+From architecture to production — automation, LLMs and real-world products.
 
 ---
 
-## Stack
+## 🌐 Product Ecosystem
 
-Python · FastAPI · TypeScript · React · Next.js · Swift · Rust · Docker
+<br/>
 
-AI: OpenAI · Claude · LangChain · HuggingFace
+### Core
+
+<br/>
+
+**[JobApp](https://jobapp.site)**  
+AI system to optimize and automate job applications  
+<sub>Match quality over volume · Automated flow · Outcome-driven</sub>
+
+<br/>
+
+**[CLTX](https://cltxpj.app.br)**  
+Operations platform for PJ vs CLT decisions  
+<sub>Finance + workflows · Real production usage</sub>
+
+<br/>
+
+**[VotoData](https://votodata.net)**  
+Public data visualization platform  
+<sub>Interactive exploration · Scalable infrastructure</sub>
+
+<br/><br/>
+
+### AI & Experiments
+
+<br/>
+
+**[HabitRats](https://habitsrats.com)**  
+Behavior tracking and habit systems
+
+<br/>
+
+**[Pena](https://www.pena.click)**  
+Lightweight micro-product experiments
+
+<br/>
+
+**[Agnostix](https://agnostix.io)**  
+Experimental AI systems
+
+<br/><br/>
+
+### B2B
+
+<br/>
+
+**[MSS Consultoria](https://mssconsultoria.com.br)**  
+Automation and system delivery for clients
+
+<br/>
+
+**[Team Dimitrov](https://teamdimitrov.com.br)**  
+Custom system for performance and operations
+
+<br/><br/>
+
+### Platform
+
+<br/>
+
+**[Wolram](https://wolram.com.br)**  
+B2C platform for scalable digital products
+
+<br/>
+
+**[marlow.dev](https://marlow.dev.br)**  
+Personal hub and projects
+
+<br/><br/>
 
 ---
 
-## Currently
+## ⚙️ Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97706?style=flat&logo=anthropic&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
+
+---
+
+## 🧭 Current
 
 - Building products @ Wolram  
 - Running MSS Consultoria (B2B systems)  
 
 ---
 
-## Contact
+<div align="center">
 
-📧 marlow@mssconsultoria.com.br  
-🔗 marlow.dev.br 
+Building with AI · Shipping to production  
+https://marlow.dev.br
+
+</div>
