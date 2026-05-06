@@ -28,19 +28,19 @@ From architecture to production — automation, LLMs and real-world products.
 **[JobApp](https://jobapp.site)**  
 AI system to optimize and automate job applications  
 <sub>Match quality over volume · Automated flow · Outcome-driven</sub>
-
+---
 <br/>
 
 **[CLTX](https://cltxpj.app.br)**  
 Operations platform for PJ vs CLT decisions  
 <sub>Finance + workflows · Real production usage</sub>
-
+---
 <br/>
 
 **[VotoData](https://votodata.net)**  
 Public data visualization platform  
 <sub>Interactive exploration · Scalable infrastructure</sub>
-
+---
 <br/><br/>
 
 ### AI & Experiments
@@ -54,40 +54,40 @@ Behavior tracking and habit systems
 
 **[Pena](https://www.pena.click)**  
 Lightweight micro-product experiments
-
+---
 <br/>
 
 **[Agnostix](https://agnostix.io)**  
 Experimental AI systems
-
+---
 <br/><br/>
-
+---
 ### B2B
 
 <br/>
 
 **[MSS Consultoria](https://mssconsultoria.com.br)**  
 Automation and system delivery for clients
-
+---
 <br/>
 
 **[Team Dimitrov](https://teamdimitrov.com.br)**  
 Custom system for performance and operations
-
+---
 <br/><br/>
-
+---
 ### Platform
 
 <br/>
 
 **[Wolram](https://wolram.com.br)**  
 B2C platform for scalable digital products
-
+---
 <br/>
 
 **[marlow.dev](https://marlow.dev.br)**  
 Personal hub and projects
-
+---
 <br/><br/>
 
 ---
